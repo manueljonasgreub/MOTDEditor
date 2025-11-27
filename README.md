@@ -14,7 +14,7 @@ Perfect for fun, unpredictable MOTDs that change every time the server list refr
 
 ## Download
 
-You can download the latest version from the *[Releases](https://github.com/manueljonasgreub/MOTDEditor/releases) page.
+You can download the latest version from the [Releases](https://github.com/manueljonasgreub/MOTDEditor/releases) page.
 
 ## Installation
 

@@ -1,0 +1,4 @@
+name: MOTDEditor
+version: '1.0-SNAPSHOT'
+main: net.manueljonasgreub.mOTDEditor.MOTDEditor
+api-version: '1.21'

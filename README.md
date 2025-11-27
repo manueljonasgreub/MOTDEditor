@@ -14,11 +14,11 @@ Perfect for fun, unpredictable MOTDs that change every time the server list refr
 
 ## Download
 
-You can download the latest version from the **Releases** page.
+You can download the latest version from the *[Releases](https://github.com/manueljonasgreub/MOTDEditor/releases) page.
 
 ## Installation
 
-1. Download the latest `MOTDEditor.jar` from the Releases page.
+1. Download the latest `MOTDEditor.jar` from the [Releases](https://github.com/manueljonasgreub/MOTDEditor/releases) page.
 2. Place the JAR inside your server’s `plugins` folder.
 3. Start (or restart) your server.
 4. The plugin will automatically generate a folder
@@ -88,4 +88,4 @@ If a message uses more `{name}` placeholders than the number of available names,
 
 ### Updating the Config
 
-After editing motds.json, restart your server or run `/reload confirm`
+After editing `motds.json`, restart your server or run `/reload confirm`

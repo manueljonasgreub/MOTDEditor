@@ -1,6 +1,7 @@
 # MOTD Editor – Dynamic & Randomized Server Description Plugin
 
 MOTD Editor is a lightweight Paper/Spigot plugin that generates dynamic, randomized MOTDs for your Minecraft server.  
+
 It supports:
 - Random **names**
 - Random **messages**
